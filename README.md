@@ -36,4 +36,8 @@
 
 ### Recommendations to clients based on analysis
 
-* Based on your findings, make a brief (1-2 sentences) recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters? 
+The cryptocurrencies are able to be grouped into 5 clusters. It also appears that for cluster labels 0, 2 and 3, this group makes up 99% of all the cryptocurrencies that are trading, being mined and have supply. And based on the scatter plot below it appears to be evenly clustered and visible to the naked eye. These specific cryptocurrencies contained in these clusters would be suitable for a financial consultancy to create a investment portfolio that would be able to be marketed to new and existing clients.
+
+![image](https://user-images.githubusercontent.com/78628287/131051618-ba4ba999-b705-4b5e-bbf2-7159b0865639.png)
+
+Cluster Labels ({0: 183, 2: 237, 3: 110, 4: 1, 1: 1})
