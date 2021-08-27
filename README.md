@@ -38,6 +38,6 @@
 
 The cryptocurrencies are able to be grouped into 5 clusters. It also appears that for cluster labels 0, 2 and 3, this group makes up 99% of all the cryptocurrencies that are trading, being mined and have supply. And based on the scatter plot below it appears to be evenly clustered and visible to the naked eye. These specific cryptocurrencies contained in these clusters would be suitable for a financial consultancy to create a investment portfolio that would be able to be marketed to new and existing clients.
 
-
+![image](https://user-images.githubusercontent.com/78628287/131052206-632bef5c-0f42-4d4c-a825-38259e0d6acf.png)
 
 Cluster Labels ({0: 183, 2: 237, 3: 110, 4: 1, 1: 1})
